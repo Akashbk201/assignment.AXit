@@ -1,0 +1,291 @@
+/* Medium Layout: 1200px */
+@media only screen and (min-width: 992px) and (max-width:1200px) {
+    .form-sec input {
+        margin-left: 18px;
+
+    }
+
+    input.form-control {
+        width: 100px !important;
+    }
+
+    .footer-icon ul li {
+        padding: 0px 17px;
+    }
+
+    .footer-text h2 {
+        font-size: 22px;
+    }
+
+    .footer-text p {
+        font-size: 11px;
+    }
+
+}
+
+/* Tablet and Mobile Layout: 768px */
+@media only screen and (max-width:991px) {
+
+    .nav li {
+        padding: 0px 8px;
+    }
+    .nav-item {
+        text-align: right;
+    }
+
+    .nav li a {
+        font-size: 16px;
+    }
+
+    .slider-area-text h2 {
+        font-size: 21px;
+    }
+
+    .slider-area-text p {
+        font-size: 16px;
+    }
+
+    .slider-area-text a {
+        font-size: 18px;
+    }
+
+    .form-sec input {
+        width: 174px;
+        margin-left: 19px;
+    }
+
+    .get-started-section h2 {
+        font-size: 12px;
+    }
+
+    .get-started-section button {
+        font-size: 16px;
+    }
+
+    .features-section {
+        height: 915px;
+    }
+
+    .sub-sec {
+        height: 1688px;
+    }
+
+    .awesome-section {
+        height: 810px;
+    }
+
+    .pricing-sec {
+        height: 850px;
+    }
+
+    .review-sec {
+        height: 570px;
+    }
+
+    .contact-sec {
+        height: 800px;
+    }
+
+    .footer-icon ul li a {
+        font-size: 28px;
+    }
+
+    .footer-icon ul li {
+        margin-top: 33px;
+        padding: 0px 16px;
+    }
+
+    .footer-text h2 {
+        margin-top: 10px;
+        font-size: 22px;
+    }
+
+    .footer-text p {
+        font-size: 11px;
+    }
+
+    .review-single p {
+        height: 178px;
+        font-size: 13px;
+        font-weight: 200;
+        padding: 4px 15px;
+    }
+
+    h3.pricing-title {
+        font-size: 25px;
+    }
+
+    .most-populer {
+        font-size: 13px;
+        padding: 10px 0px 21px 0px;
+    }
+
+    .pricing-content ul li {
+        font-size: 14px;
+    }
+
+    .button a {
+        font-size: 16px;
+    }
+
+
+}
+
+/* Tablet Layout: 768px */
+@media only screen and (min-width: 768px) and (max-width:991px) {}
+
+/* Mobile Layout: 320px */
+@media only screen and (max-width:767px) {
+    .slider-area {
+        height: 800px;
+    }
+
+    .slider-area-text {
+        margin-top: 45px;
+    }
+
+    .get-started-section {
+        margin-top: 35px;
+    }
+
+    .form-sec input {
+        width: 245px;
+    }
+
+    .tab-wrapper {
+        display: none;
+    }
+
+    .tab-post {
+        margin-top: 35px;
+    }
+
+    .tab-post p {
+        margin-top: 20px;
+    }
+
+    .tab-post button {
+        font-size: 16px;
+    }
+
+    .features-section {
+        height: 465px;
+    }
+
+    .image-wrapper {
+        margin-top: 20px;
+    }
+
+    .sub-sec-post {
+        margin-top: 0px;
+    }
+
+    .sub-sec-post h2 {
+        font-size: 21px;
+    }
+
+    .sub-sec-post p {
+        font-size: 13px;
+    }
+
+    .sub-sec {
+        height: 1578px;
+    }
+
+    .awesome-sec-wrapper p {
+        font-size: 14px;
+    }
+
+    .awesome-sec-post h2 {
+        font-size: 18px;
+    }
+
+    .awesome-sec-post p {
+        font-size: 12px;
+    }
+
+    .awesome-section {
+        height: 930px;
+    }
+
+    .contact-sec-title h2 {
+        margin-top: 50px;
+    }
+
+    .contact-sec-title p {
+        font-size: 13px;
+    }
+
+    .pricing-table {
+        margin-top: 26px;
+    }
+
+    .pricing-content {
+        margin-top: 18px;
+    }
+
+    .pricing-sec {
+        height: 1880px;
+    }
+
+    .review-wrapper p {
+        font-size: 12px;
+    }
+
+    .review-sec {
+        height: 1130px;
+    }
+
+    .lower-sec-wrapper h2 {
+        font-size: 18px;
+    }
+
+    .lower-sec-wrapper p {
+        font-size: 12px;
+    }
+
+    .lower-sec-wrapper a {
+        font-size: 14px;
+    }
+
+    .contact-title {
+        margin-top: 29px;
+    }
+
+    .contact-title p {
+        font-size: 12px;
+    }
+
+    .contact-title h2 {
+        font-size: 23px;
+    }
+
+    .review-form-sec {
+        margin-top: 20px;
+    }
+
+    .review-form-sec input {
+        width: 96%;
+    }
+
+    .message-area textarea {
+        height: 88px;
+        padding: 0px 24px;
+    }
+
+    .button {
+        margin-top: 28px;
+    }
+
+    .contact-sec {
+        height: 640px;
+    }
+
+    .footer-area {
+        height: 270px;
+    }
+
+}
+
+/* Wide Mobile Layout: 480px */
+@media only screen and (min-width: 480px) and (max-width:767px) {}
